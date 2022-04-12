@@ -1,6 +1,6 @@
 -- use lower case for table name
 -- this particular database is configured to use lowercase for table name
-SELECT COUNT(*) FROM books ;
+SELECT COUNT(*) FROM books;
 
 SELECT COUNT(*) FROM users ;
 
